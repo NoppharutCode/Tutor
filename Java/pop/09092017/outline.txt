@@ -1,0 +1,6 @@
+1. สอนเรื่อง type ของตัวแปรต่างๆ
+2. String
+2.1 if statment boolean ด้วยเลย
+3. Array
+4. ArrayList
+5.  ลูปต่างๆ

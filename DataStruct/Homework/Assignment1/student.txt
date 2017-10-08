@@ -1,0 +1,16 @@
+3
+CS 5
+Robb M 3.3
+Sansa F 2.9
+Arya F 3.2
+Bran M 3.9
+Rickon M 2.0
+SE 3
+Cersei F 3.2
+Jaime M  3.3
+Tyrion M 3.9
+CG 3
+Rhaegar M 3.8
+Viserys M 1.7
+Daenerys F 3.4
+

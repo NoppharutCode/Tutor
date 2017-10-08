@@ -1,0 +1,10 @@
+1. สอนใช้ syso แบบคีย์ลัด
+2. สอนเรื่อง type ของตัวแปร
+3. สอนการ type cast ของ int float double 
+(การแปร  int, float ,double เป็น string แปร String เป็น int, float ,double)
+4. สอน Math library
+6.  สอนใช้ งาน String
+7.control flow พวก  if else
+8  สอน อาเรย์
+9.loop
+10. การ sort ของ อาเรย์ int, float ,double
